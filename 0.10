@@ -1,0 +1,7 @@
+Requirement already satisfied: flask in c:\users\user\anaconda3\envs\ml_credit\lib\site-packages (2.0.1)
+Requirement already satisfied: click>=7.1.2 in c:\users\user\anaconda3\envs\ml_credit\lib\site-packages (from flask) (7.1.2)
+Requirement already satisfied: Werkzeug>=2.0 in c:\users\user\anaconda3\envs\ml_credit\lib\site-packages (from flask) (2.0.1)
+Requirement already satisfied: Jinja2>=3.0 in c:\users\user\anaconda3\envs\ml_credit\lib\site-packages (from flask) (3.0.1)
+Requirement already satisfied: itsdangerous>=2.0 in c:\users\user\anaconda3\envs\ml_credit\lib\site-packages (from flask) (2.0.1)
+Requirement already satisfied: MarkupSafe>=2.0 in c:\users\user\anaconda3\envs\ml_credit\lib\site-packages (from Jinja2>=3.0->flask) (2.0.1)
+Requirement already satisfied: dataclasses in c:\users\user\anaconda3\envs\ml_credit\lib\site-packages (from Werkzeug>=2.0->flask) (0.8)
